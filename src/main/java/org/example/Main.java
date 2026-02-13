@@ -1,17 +1,29 @@
 package org.example;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
-    public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+import org.example.backend.*;
+import org.example.person3.FileHandler;
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+import java.util.*;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        UserFinancialData data = new UserFinancialData();
+
+        data.income = 50000;
+        data.transactions = new ArrayList<>();
+
+        data.transactions.add(
+                new Transaction("Rent",-15000,"2026-03-01")
+        );
+
+        FileHandler.save(data);
+
+        UserFinancialData loaded =
+                FileHandler.load(UserFinancialData.class);
+
+        System.out.println(loaded.income);
+
     }
 }
