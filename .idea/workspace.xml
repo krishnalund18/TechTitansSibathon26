@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="">
-      <change beforePath="D:/PredictaPay/.idea/workspace.xml" beforeDir="false" afterPath="D:/PredictaPay/.idea/workspace.xml" afterDir="false" />
       <change beforePath="D:/PredictaPay/Data.json" beforeDir="false" afterPath="D:/PredictaPay/Data.json" afterDir="false" />
-      <change beforePath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" afterDir="false" />
+      <change beforePath="D:/PredictaPay/src/main/java/org/example/backend/UserFinancialData.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/backend/UserFinancialData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

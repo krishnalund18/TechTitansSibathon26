@@ -22,9 +22,18 @@ public class StorageManager {
         return currentData;
     }
 
+    // normal save
     public static void save(){
-
         FileHandler.save(currentData);
+    }
+
+    // ⭐ AUTO SAVE (NEW UPGRADE)
+    public static void autoSave(){
+
+        new Thread(() -> {
+            FileHandler.save(currentData);
+            System.out.println("Auto-saved data...");
+        }).start();
 
     }
 }
