@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="">
-      <change afterPath="D:/PredictaPay/src/main/java/org/example/person3/DataModels.java" afterDir="false" />
-      <change afterPath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" afterDir="false" />
-      <change beforePath="D:/PredictaPay/.idea/workspace.xml" beforeDir="false" afterPath="D:/PredictaPay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/PredictaPay/pom.xml" beforeDir="false" afterPath="D:/PredictaPay/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
