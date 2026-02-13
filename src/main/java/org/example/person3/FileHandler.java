@@ -31,4 +31,7 @@ public class FileHandler {
             return null;
         }
     }
+    public static void autoSave(Object data){
+        new Thread(() -> save(data)).start();
+    }
 }

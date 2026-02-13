@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="" />
+    <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="">
+      <change beforePath="D:/PredictaPay/.idea/workspace.xml" beforeDir="false" afterPath="D:/PredictaPay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/PredictaPay/Data.json" beforeDir="false" afterPath="D:/PredictaPay/Data.json" afterDir="false" />
+      <change beforePath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "file-alert",
     "kotlin-language-version-configured": "true",
@@ -55,6 +61,16 @@
       <recent name="D:\PredictaPay\src\main\java" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="PredictaPay" />
+      <option name="WORKING_DIRECTORY" value="D:/PredictaPay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,16 +81,5 @@
       <updated>1770977449334</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://D:/PredictaPay/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
