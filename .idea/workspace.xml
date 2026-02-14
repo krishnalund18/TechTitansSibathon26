@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="">
-      <change beforePath="D:/PredictaPay/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="D:/PredictaPay/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="D:/PredictaPay/.idea/workspace.xml" beforeDir="false" afterPath="D:/PredictaPay/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="D:/PredictaPay/Data.json" beforeDir="false" afterPath="D:/PredictaPay/Data.json" afterDir="false" />
-      <change beforePath="D:/PredictaPay/src/main/java/org/example/Main.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" afterDir="false" />
-    </list>
+    <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "file-alert",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/PredictaPay/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;file-alert&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/PredictaPay/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PredictaPay\src\main\java\org\example\person3" />
