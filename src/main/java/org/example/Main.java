@@ -1,58 +1,17 @@
 package org.example;
 
-import org.example.backend.person1.Transaction;
-import org.example.backend.person1.Schedule;
-
-import java.time.LocalDate;
-
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
-
     public static void main(String[] args) {
-        Transaction rent = new Transaction(
-                LocalDate.of(2026, 2, 1),
-                "Expense",
-                "Rent",
-                15000
-        );
+        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+        // to see how IntelliJ IDEA suggests fixing it.
+        System.out.printf("Hello and welcome!");
 
-        Transaction salary = new Transaction(
-                LocalDate.of(2026, 2, 13),
-                "Income",
-                "Salary",
-                50000
-        );
-
-        Transaction subscription = new Transaction(
-                LocalDate.of(2026, 2, 15),
-                "Expense",
-                "Netflix",
-                1500
-        );
-
-        System.out.println("---- Transactions ----");
-        System.out.println(rent);
-        System.out.println(salary);
-        System.out.println(subscription);
-
-        Schedule monthlyRent = new Schedule(rent, "MONTHLY", rent.getDate());
-        Schedule monthlySalary = new Schedule(salary, "MONTHLY", salary.getDate());
-        Schedule monthlyNetflix = new Schedule(subscription, "MONTHLY", subscription.getDate());
-
-
-        System.out.println("\n---- Initial Schedules ----");
-        System.out.println(monthlyRent);
-        System.out.println(monthlySalary);
-        System.out.println(monthlyNetflix);
-
-        monthlyRent.calculateNextDate();
-        monthlySalary.calculateNextDate();
-        monthlyNetflix.calculateNextDate();
-
-
-        System.out.println("\n---- Schedules After Next Month ----");
-        System.out.println(monthlyRent);
-        System.out.println(monthlySalary);
-        System.out.println(monthlyNetflix);
+        for (int i = 1; i <= 5; i++) {
+            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
+            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
+            System.out.println("i = " + i);
+        }
     }
 }
-
