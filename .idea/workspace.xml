@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="">
+      <change beforePath="D:/PredictaPay/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="D:/PredictaPay/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="D:/PredictaPay/.idea/workspace.xml" beforeDir="false" afterPath="D:/PredictaPay/.idea/workspace.xml" afterDir="false" />
       <change beforePath="D:/PredictaPay/Data.json" beforeDir="false" afterPath="D:/PredictaPay/Data.json" afterDir="false" />
-      <change beforePath="D:/PredictaPay/src/main/java/org/example/backend/UserFinancialData.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/backend/UserFinancialData.java" afterDir="false" />
+      <change beforePath="D:/PredictaPay/src/main/java/org/example/Main.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/person3/FileHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="D:/PredictaPay" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ritika-Lund"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ritika-Lund&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/krishnalund18/TechTitansSibathon26.git",
-    "accountId": "8e3823ba-691d-499f-a9e2-4cc82e74ca3a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/krishnalund18/TechTitansSibathon26.git&quot;,
+    &quot;accountId&quot;: &quot;8e3823ba-691d-499f-a9e2-4cc82e74ca3a&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="39bvBEojEuR1HNfaAXMUIoH8uDK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,6 +51,7 @@
     "Application.Main.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "file-alert",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "D:/PredictaPay/src/main/java/org/example/Main.java",

@@ -1,4 +1,4 @@
-package org.example.person3;
+package org.example;
 
 public class DataModels {
 }

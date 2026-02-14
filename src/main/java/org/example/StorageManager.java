@@ -1,6 +1,4 @@
-package org.example.person3;
-
-import org.example.backend.UserFinancialData;
+package org.example;
 
 public class StorageManager {
 

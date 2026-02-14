@@ -1,4 +1,4 @@
-package org.example.backend;
+package org.example;
 
 import java.util.List;
 

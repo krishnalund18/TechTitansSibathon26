@@ -1,8 +1,5 @@
 package org.example;
 
-import org.example.person3.StorageManager;
-import org.example.backend.*;
-
 import java.util.*;
 
 public class Main {
@@ -26,7 +23,7 @@ public class Main {
                 new Transaction("Rent",-15000,"2026-03-01")
         );
 
-        StorageManager.save();
+        StorageManager.autoSave();
 
     }
 }
