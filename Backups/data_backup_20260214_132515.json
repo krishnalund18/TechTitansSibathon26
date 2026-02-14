@@ -18,16 +18,6 @@
       },
       "recurrenceType": "WEEKLY",
       "nextDate": "2026-02-14"
-    },
-    {
-      "transaction": {
-        "date": "2026-02-14",
-        "type": "EXPENSE",
-        "category": "sweets",
-        "amount": 700.0
-      },
-      "recurrenceType": "WEEKLY",
-      "nextDate": "2026-02-14"
     }
   ]
 }
