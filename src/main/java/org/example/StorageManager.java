@@ -38,7 +38,6 @@ public class StorageManager {
         }
         autoSave();
     }
-
     // Add schedule to UserFinancialData
     public static void addSchedule(Schedule schedule) {
         currentData.addSchedule(schedule);

@@ -18,7 +18,7 @@ public class SimulationEngine {
         double balance = data.getBalance();
         LocalDate today = LocalDate.now();
 
-        for (int i = 0; i < days; i++) {
+        for (int i = 1; i < days; i++) {
             LocalDate current = today.plusDays(i);
             for (Transaction t : allTransactions) {
                 if (t.getDate().equals(current)) {

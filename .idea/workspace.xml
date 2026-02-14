@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="" />
+    <list default="true" id="d42cd6d6-5137-4229-9aa0-a0a906cb812b" name="Changes" comment="">
+      <change beforePath="D:/PredictaPay/src/main/java/org/example/StorageManager.java" beforeDir="false" afterPath="D:/PredictaPay/src/main/java/org/example/StorageManager.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +34,9 @@
     &quot;accountId&quot;: &quot;8e3823ba-691d-499f-a9e2-4cc82e74ca3a&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
