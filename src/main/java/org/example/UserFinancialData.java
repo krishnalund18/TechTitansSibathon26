@@ -1,7 +1,5 @@
-package org.example.person2;
+package org.example;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.ArrayList;
 import java.util.List;
 

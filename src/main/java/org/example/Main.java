@@ -1,8 +1,7 @@
 package org.example;
 import org.example.person2.UserAccount;
-import org.example.person2.Transaction;
+
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.List;
 
 public class Main {

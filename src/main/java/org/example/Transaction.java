@@ -1,4 +1,4 @@
-package org.example.person2;
+package org.example;
 import java.time.LocalDate;
 
 public class Transaction {

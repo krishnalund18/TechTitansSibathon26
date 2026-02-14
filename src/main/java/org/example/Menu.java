@@ -1,4 +1,4 @@
-package org.example.person2;
+package org.example;
 public class Menu {
     public static void showMenu() {
 
